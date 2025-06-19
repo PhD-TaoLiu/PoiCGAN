@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/datasets/InsPLAD" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datasets/iid_cifar.npy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datasets/non_iid_cifar.npy" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/iid_cifar.npy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models/Fed.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Nets.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Update.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/non_iid_cifar.npy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resnet_tabular_regression.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/defense.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/info.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/options.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
